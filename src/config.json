@@ -10,11 +10,11 @@
     "noButtonText": "No 🙈",
     "successMessage": "You just made me the happiest girl alive. I love you endlessly.",
     "secretMessage": "No matter where you are in this world, my heart will always find you.",
-    "backgroundMusic": "/src/assets/songs/song1.MP3"
+    "backgroundMusic": "/assets/songs/song1.MP3"
   },
   "couplePhotos": [
     {
-      "image": "/src/assets/couple_photo/photo1.jpeg",
+      "image": "/assets/couple_photo/photo1.jpeg",
       "caption": "The day I didn't want to let you go ❤️"
     }
   ],
@@ -22,26 +22,26 @@
   {
     "title": "Etrayo Janmamai",
     "artist": "Srinivas",
-    "cover": "/src/assets/album-covers/etrayo janmamai.jpg",
-    "audio": "/src/assets/songs/song1.MP3"
+    "cover": "/assets/album-covers/etrayo janmamai.jpg",
+    "audio": "/assets/songs/song1.MP3"
   },
   {
     "title": "Blinding Lights",
     "artist": "The Weeknd",
-    "cover": "/src/assets/album-covers/blinding lights.jpg",
-    "audio": "/src/assets/songs/song2.mp3"
+    "cover": "/assets/album-covers/blinding lights.jpg",
+    "audio": "/assets/songs/song2.mp3"
   },
   {
     "title": "Die with a smile",
     "artist": "The Weeknd",
-    "cover": "/src/assets/album-covers/die with a smile.jpg",
-    "audio": "/src/assets/songs/song3.mp3"
+    "cover": "/assets/album-covers/die with a smile.jpg",
+    "audio": "/assets/songs/song3.mp3"
   },
   {
     "title": "In the end",
     "artist": "Linkin Park",
-    "cover": "/src/assets/album-covers/in the end.jpg",
-    "audio": "/src/assets/songs/song4.mp3"
+    "cover": "/assets/album-covers/in the end.jpg",
+    "audio": "/assets/songs/song4.mp3"
   }
 ],
   "theme": {
